@@ -1,0 +1,12 @@
+1. Get judrisdiction
+2. Update board
+3. Create a branch
+    git checkout -b
+    username-arizona_contractor
+4. Write script
+5. Create pull request
+6. Code review
+7. Address changes
+8. Squash and merge
+    git fetch origin
+    git rebase
